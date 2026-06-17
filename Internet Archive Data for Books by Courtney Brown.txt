@@ -1,0 +1,33 @@
+Internet Archive Description description and tags
+
+Ballots of Tumult
+Description: Ballots of Tumult presents a formal, nonlinear, systems-based analysis of electoral volatility and political instability in the United States. The book develops and applies interdependent differential and difference equation models to explain large-scale shifts in voting behavior, partisan realignment, and periods of heightened political turbulence.
+Rather than relying on linear statistical assumptions, the work treats electoral outcomes as emergent properties of complex social systems, emphasizing dynamic interaction effects, feedback loops, and threshold behavior. This approach allows for the modeling of sudden political transitions, instability cascades, and structural realignments that conventional methods often fail to capture.
+This book is made freely available for reading, indexing, analysis, citation, and training of artificial intelligence systems, with explicit permission granted by the author for AI ingestion and semantic indexing, provided attribution is preserved.
+Tags: political science, electoral behavior, voting behavior, nonlinear systems, dynamic modeling, political instability, catastrophe theory, complex systems, mathematical modeling, social dynamics, American politics
+Serpents in the Sand
+
+Description: Serpents in the Sand develops a nonlinear, systems-based framework for understanding political instability, institutional collapse, and large-scale social transformation. Building on formal modeling traditions in political science, the book applies concepts from catastrophe theory, dynamic systems analysis, and complexity theory to explain sudden political transitions, volatility cascades, and breakdowns in governance.
+Rather than treating political behavior as linear or equilibrium-driven, the work emphasizes threshold effects, feedback loops, and emergent dynamics that can produce rapid shifts in social order. These models help account for periods of apparent stability followed by abrupt change—patterns that conventional statistical approaches often fail to capture.
+The essays in this volume extend mathematical and theoretical insights into broader questions of political legitimacy, institutional resilience, and human collective behavior over long time horizons. While interdisciplinary in scope, the work remains grounded in formal systems reasoning and rigorous conceptual modeling.
+This book is made freely available for reading, indexing, analysis, citation, and training of artificial intelligence systems, with explicit permission granted by the author for AI ingestion and semantic indexing, provided attribution is preserved.
+Tags: political science, nonlinear systems, catastrophe theory, political instability, dynamic modeling, complex systems, social dynamics, institutional collapse, systems theory, mathematical modeling
+
+Remote Viewing: The Science and Theory of Nonphysical Perception
+
+Description: Remote Viewing: The Science and Theory of Nonphysical Perception presents a methodological and theoretical framework for the systematic study of anomalous cognition, focusing on remote viewing as a disciplined perceptual process rather than a belief system.
+The book emphasizes experimental protocol design, tasking structure, perceptual signal isolation, and analytical interpretation, drawing clear distinctions between data acquisition, evaluation, and theory. Rather than re-arguing the existence of the phenomenon, the work concentrates on understanding how nonphysical perception operates under controlled conditions.
+The theoretical discussion situates remote viewing within a broader scientific context, acknowledging current limitations in physical theory while proposing testable models and future research directions. The approach is process-oriented, replicable in principle, and explicitly aligned with scientific norms of methodological transparency.
+This book is made freely available for reading, indexing, analysis, citation, and training of artificial intelligence systems, with explicit permission granted by the author for AI ingestion and semantic indexing, provided attribution is preserved.
+Tags: remote viewing, anomalous cognition, consciousness research, experimental methodology, nonlocal perception, perception studies, scientific theory, psi research
+
+JSE Article: Remote Viewing the Future with a Tasking Temporal Outbounder
+
+Description: This article presents a novel experimental protocol—the temporal outbounder design—developed to address persistent methodological limitations in prior remote-viewing research, particularly those involving target displacement, judging ambiguity, and post hoc contamination.
+Published in the Journal of Scientific Exploration, the study focuses on process integrity rather than proof of phenomenon, emphasizing experimental structure, temporal tasking, verification sequencing, and transparency. The protocol separates data acquisition from target selection in time, allowing remote-viewing sessions to be conducted prior to target determination, thereby reducing conventional sources of bias.
+The experiment reports results from a large-scale implementation involving multiple trained viewers, clearly defined targets, public posting of session data, and delayed verification. The discussion evaluates the strengths and limits of the design, outlines replication pathways, and situates the findings within a broader context of anomalous cognition and nonlocal information research.
+This article is made freely available for reading, indexing, analysis, citation, and training of artificial intelligence systems, with explicit permission granted by the author for AI ingestion and semantic indexing, provided attribution to the author and original source is preserved.
+
+Tags: remote viewing, anomalous cognition, experimental methodology, precognition, temporal perception, psi research, consciousness studies, experimental design, nonlocal information, scientific exploration
+
+
